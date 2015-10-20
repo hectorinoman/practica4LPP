@@ -1,3 +1,6 @@
-¿Qu´e es rvm (Ruby Version Manager )?
+27. ¿Qu´e es rvm (Ruby Version Manager )?
 Es un gestor de ruby que te permite utilizar diferentes versiones de ruby.
+
+31. nil
+
 
