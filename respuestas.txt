@@ -3,4 +3,8 @@ Es un gestor de ruby que te permite utilizar diferentes versiones de ruby.
 
 31. nil
 
+34. 
+Utilizando ruby se compila por medio del interprete situado en #! /usr/bin/env ruby, mientras que irb es un interprete interactivo donde podemos escribir linea por linea e ir comprobando y depurando posibles errores
 
+41. 
+La principal diferencia es el uso de colores y que pry resulta mas intuitivo a la hora de trabajar
